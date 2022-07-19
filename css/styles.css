@@ -1,7 +1,10 @@
- p{
-    font-family:'Roboto', sans-serif ;
- }
+.body{
+   font-family: 'Roboto', Raleway;
+   color: #E5E5E5;
+}
 
- a{
-    font-family: 'Raleway', sans-serif;
- }
+ .link:hover{
+  color: teal;
+  text-decoration: none;
+}
+
