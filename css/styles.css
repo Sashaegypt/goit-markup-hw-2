@@ -2,6 +2,10 @@ body {
   font-family: 'Roboto', Raleway;
 }
 
+li {
+  list-style-type: none;
+}
+
 /* logo-website */
 .webstudio {
   font-family: Raleway;
@@ -20,8 +24,9 @@ body {
   text-decoration: none;
   font-weight: 500;
   font-size: 14px;
-  line-height: 1.7;
-} 
+   line-height: 1.7;
+  
+  } 
 .link:hover , .link:focus{
   color: #2196F3;
 }
